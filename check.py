@@ -1,0 +1,1 @@
+print("Checking python interprter set for .py file")
